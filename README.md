@@ -2,4 +2,4 @@
 Titulo: Naves
 Descripcion: programa basado en la pelicula oblibion
 Autor:Javier Velasco Alcalde
-Colaborador: Javier VelascVo 
+
